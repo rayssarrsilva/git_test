@@ -1,0 +1,2 @@
+Hello, this is writed in the oracle virtual machine!
+can you read it?
